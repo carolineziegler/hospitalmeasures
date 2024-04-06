@@ -4,6 +4,8 @@
 This repository contains the necessary files to perform a comprehensive analysis of hospital quality metrics across various dimensions such as hospital type, ownership, and regional distribution. The goal is to leverage SQL queries to uncover insights into hospital performance, patient experience, and mortality rates.
 
 ## **Repository Structure**
+- Hospital_general_information: Raw data file.
+- Hospital Performance Metrics Analysis Data Cleaning: Data Cleaning and Preprocessing in Python for SQL.
 - Hospital_SQL.csv: The main dataset containing hospital information and quality measures.
 - measure-descriptions.csv: Descriptions of the measures used in the analysis.
 - SQL_hospitalanalysis_USA.sql: SQL script with queries for the analysis.
